@@ -27,4 +27,3 @@ Saving/loading models with pickle
 Creating and deploying interactive apps using Streamlit
 Acknowledgement
 Special thanks to Data Zenix Solutions for providing this internship opportunity and hands-on project experience in machine learning and deployment.
-
